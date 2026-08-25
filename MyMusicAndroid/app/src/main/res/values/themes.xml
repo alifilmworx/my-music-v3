@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MyMusic" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FE5721</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>
